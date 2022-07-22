@@ -1,5 +1,7 @@
 # Notes App
 
+## A basic MarkDown notes taking app 
+
 Quick start:
 
 ```
